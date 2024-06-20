@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Patil</h1>
 <h3 align="center">A passionate developer</h3>
 
-<img align="right" alt="GIF" src="read.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="read.gif" width="480" height="320" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebase25&label=Profile%20views&color=0e75b6&style=flat" alt="codebase25" /> </p>
