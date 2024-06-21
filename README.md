@@ -29,7 +29,7 @@
 
 
 <table><tr>
-<td align="center" style="padding=0;width=50%;"> <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebase25&show_icons=true&locale=en&layout=compact" alt="codebase25" /> </td>
+<td align="center" style="padding=0;width=50%;"> <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kiranpatil5&show_icons=true&locale=en&layout=compact" alt="codebase25" /> </td>
 
-<td align="center" style="padding=0;width=50%;"> <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=codebase25&" alt="codebase25" /></td>
+<td align="center" style="padding=0;width=50%;"> <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiranpatil5&" alt="codebase25" /></td>
 </tr></table>
